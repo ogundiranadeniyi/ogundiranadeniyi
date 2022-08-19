@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ogundiranadeniyi
-- 👀 I’m interested in data analytics and cloud engineering
-- 🌱 I’m currently learning power BI, SQL and Python
-- 💞️ I’m looking to collaborate on project in data analytics
+- 👀 I’m interested in data analytics,data science and cloud engineering
+- 🌱 I’m currently learning power BI, SQL,R and Python
+- 💞️ I’m looking to collaborate on project in data analytics, data science and cloud engineering
 - 📫 How to reach me on ogundiranadeniyi@gmail.com
 
 <!---
